@@ -9,7 +9,7 @@ Register at the link on https://docs.github.com/en/integrations/concepts/github-
 - API used: REST API (repos, commits, issues, releases endpoints), API version 2022-11-28.
 - Status: In development, working prototype with tests.
 - Support email: hamza22222259@gmail.com
-- Website / repository: https://github.com/0xSm0ky/repo-pulse (private; make public or add a public page if the form requires one)
+- Website / repository: https://github.com/0xSm0ky/repo-pulse
 
 ## Eligibility checklist
 
