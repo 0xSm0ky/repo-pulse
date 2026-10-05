@@ -8,14 +8,14 @@ Register at the link on https://docs.github.com/en/integrations/concepts/github-
 - What it does: A command line tool that uses the GitHub REST API to summarize recent repository activity (commits, issues, pull requests, releases, top contributors) for any public or authorized private repository.
 - API used: REST API (repos, commits, issues, releases endpoints), API version 2022-11-28.
 - Status: In development, working prototype with tests.
-- Support email: <put your public support address here>
-- Website / repository: <publish this folder to a GitHub repo and put the URL here>
+- Support email: hamza22222259@gmail.com
+- Website / repository: https://github.com/0xSm0ky/repo-pulse (private; make public or add a public page if the form requires one)
 
 ## Eligibility checklist
 
 - [x] Integration in development using the GitHub API
-- [ ] Support email where GitHub users can contact you
-- [ ] Repository published
+- [x] Support email where GitHub users can contact you
+- [x] Repository published
 
 ## Spreading the word (from the program page)
 
